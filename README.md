@@ -44,7 +44,7 @@ Copy code
 npm run dev
 Open in browser:
 
-👉 http://localhost:4321/
+👉https://formyvalentine.netlify.app/
 
 📸 Preview
 This project creates a Valentine special interactive webpage where users can:
@@ -54,3 +54,4 @@ View romantic design
 Read special messages
 
 Enjoy animated effects
+
